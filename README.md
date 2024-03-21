@@ -1,1 +1,1 @@
-# SQLLeetcodeExercises
+# SQL Leetcode Exercises
